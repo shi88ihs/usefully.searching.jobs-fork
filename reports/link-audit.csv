@@ -1,48 +1,58 @@
 URL,Status,Final URL,Code,Reason
-http://authenticjobs.com,upgraded_to_https,https://authenticjobs.com/,200,Success via HTTPS
 http://jobview.careerone.com.au,dns_error,https://jobview.careerone.com.au,,Connection/DNS Error
 http://remote.co,dns_error,https://remote.co,,Connection/DNS Error
-http://remotive.io,upgraded_to_https,https://remotive.com/,200,Success via HTTPS
-http://wellfound.com,upgraded_to_https,https://wellfound.com/,200,Success via HTTPS
 http://www.applynow.com.au,blocked,https://www.applynow.com.au/,403,HTTP 403
 http://www.flexjobs.com,dns_error,https://www.flexjobs.com,,Connection/DNS Error
-http://www.freelancer.com,upgraded_to_https,https://www.freelancer.com/,200,Success via HTTPS
-http://www.peopleperhour.com/freelance-jobs,upgraded_to_https,https://www.peopleperhour.com/freelance-jobs,200,Success via HTTPS
-http://www.remoteok.io,upgraded_to_https,https://remoteok.com/,200,Success via HTTPS
-http://www.theiconic.com.au/opportunities,upgraded_to_https,https://www.theiconic.com.au/playbook/careers,200,Success via HTTPS
-http://www.toptal.com,upgraded_to_https,https://www.toptal.com/,200,Success via HTTPS
-http://www.weworkremotely.com,upgraded_to_https,https://weworkremotely.com/,200,Success via HTTPS
-http://www.workingnomads.co/jobs,upgraded_to_https,https://www.workingnomads.com/jobs,200,Success via HTTPS
+https://1password.com/,working,https://1password.com/,200,OK
 https://about.gitlab.com,working,https://about.gitlab.com/,200,OK
+https://adhoc.team/index.html,working,https://adhoc.team/index.html,200,OK
 https://airbyte.com,working,https://airbyte.com/,200,OK
-https://andela.com,redirected,https://www.andela.com/,200,Redirected to https://www.andela.com/
+https://au.jora.com/,blocked,https://au.jora.com/,403,HTTP 403
+https://authenticjobs.com/,working,https://authenticjobs.com/,200,OK
 https://automattic.com,working,https://automattic.com/,200,OK
 https://balsamiq.com,working,https://balsamiq.com/,200,OK
 https://basecamp.com,working,https://basecamp.com/,200,OK
-https://bitovi.com,redirected,https://www.bitovi.com/,200,Redirected to https://www.bitovi.com/
+https://canonical.com/,working,https://canonical.com/,200,OK
+https://devopsjobs.io/,working,https://devopsjobs.io/,200,OK
+https://forums.whirlpool.net.au/forum/133,working,https://forums.whirlpool.net.au/forum/133,200,OK
 https://github.com/atmmoreira/usefully.searching.jobs,working,https://github.com/atmmoreira/usefully.searching.jobs,200,OK
 https://github.com/remoteintech/remote-jobs,working,https://github.com/remoteintech/remote-jobs,200,OK
+https://himalayas.app/,working,https://himalayas.app/,200,OK
 https://justremote.co,working,https://justremote.co/,200,OK
-https://sentry.io/careers,redirected,https://sentry.io/careers/,200,Redirected to https://sentry.io/careers/
-https://stripe.com,redirected,https://stripe.com/au,200,Redirected to https://stripe.com/au
-https://www.1password.com,redirected,https://1password.com/,200,Redirected to https://1password.com/
-https://www.adhocteam.us,redirected,https://adhoc.team/index.html,200,Redirected to https://adhoc.team/index.html
+https://news.ycombinator.com/jobs,working,https://news.ycombinator.com/jobs,200,OK
+https://otta.com/,redirected,https://uk.welcometothejungle.com/,200,Redirected to https://uk.welcometothejungle.com/
+https://remoteok.com/,working,https://remoteok.com/,200,OK
+https://remotive.com/,working,https://remotive.com/,200,OK
+https://sentry.io/careers/,working,https://sentry.io/careers/,200,OK
+https://stripe.com/au,working,https://stripe.com/au,200,OK
+https://wellfound.com/,working,https://wellfound.com/,200,OK
+https://weworkremotely.com/,working,https://weworkremotely.com/,200,OK
 https://www.adzuna.com.au,dns_error,https://www.adzuna.com.au,,Connection/DNS Error
-https://www.amazon.jobs/en/locations/virtual-locations,redirected,https://www.amazon.jobs/content/en/locations,200,Redirected to https://www.amazon.jobs/content/en/locations
-https://www.canonical.com,redirected,https://canonical.com/,200,Redirected to https://canonical.com/
-https://www.cloudflare.com/careers,redirected,https://www.cloudflare.com/careers/,200,Redirected to https://www.cloudflare.com/careers/
+https://www.amazon.jobs/content/en/locations,working,https://www.amazon.jobs/content/en/locations,200,OK
+https://www.andela.com/,working,https://www.andela.com/,200,OK
+https://www.bitovi.com/,working,https://www.bitovi.com/,200,OK
+https://www.clearancejobs.com/,working,https://www.clearancejobs.com/,200,OK
+https://www.cloudflare.com/careers/,working,https://www.cloudflare.com/careers/,200,OK
 https://www.datadoghq.com,working,https://www.datadoghq.com/,200,OK
+https://www.dice.com/,working,https://www.dice.com/,200,OK
 https://www.elastic.co,working,https://www.elastic.co/,200,OK
+https://www.ethicaljobs.com.au/,working,https://www.ethicaljobs.com.au/,200,OK
+https://www.freelancer.com/,working,https://www.freelancer.com/,200,OK
+https://www.gun.io/,redirected,https://gun.io/,200,Redirected to https://gun.io/
 https://www.hashicorp.com,blocked,https://www.hashicorp.com/,429,HTTP 429
 https://www.indeed.com/worldwide,blocked,https://www.indeed.com/worldwide,403,HTTP 403
 https://www.linkedin.com/jobs/,working,https://www.linkedin.com/jobs/,200,OK
+https://www.peopleperhour.com/freelance-jobs,working,https://www.peopleperhour.com/freelance-jobs,200,OK
 https://www.previousnext.com.au,working,https://www.previousnext.com.au/,200,OK
-https://www.redhat.com,redirected,https://www.redhat.com/en,200,Redirected to https://www.redhat.com/en
+https://www.redhat.com/en,working,https://www.redhat.com/en,200,OK
 https://www.seek.com.au,blocked,https://www.seek.com.au/,403,HTTP 403
 https://www.shopify.com,working,https://www.shopify.com/,200,OK
 https://www.suse.com,working,https://www.suse.com/,200,OK
-https://www.sysdig.org,redirected,https://www.sysdig.com/,200,Redirected to https://www.sysdig.com/
+https://www.sysdig.com/,working,https://www.sysdig.com/,200,OK
 https://www.tenable.com,working,https://www.tenable.com/,200,OK
-https://www.twilio.com,redirected,https://www.twilio.com/en-us,200,Redirected to https://www.twilio.com/en-us
+https://www.theiconic.com.au/playbook/careers,working,https://www.theiconic.com.au/playbook/careers,200,OK
+https://www.toptal.com/,working,https://www.toptal.com/,200,OK
+https://www.twilio.com/en-us,working,https://www.twilio.com/en-us,200,OK
 https://www.upwork.com,blocked,https://www.upwork.com/,403,HTTP 403
+https://www.workingnomads.com/jobs,working,https://www.workingnomads.com/jobs,200,OK
 https://x-team.com,working,https://x-team.com/,200,OK

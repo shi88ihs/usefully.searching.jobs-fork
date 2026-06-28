@@ -43,6 +43,9 @@ English-only curated job boards and company career pages for an IT worker based 
 
 ## 1. Australia IT Job Boards
 
+- [Jora Australia](https://au.jora.com/) — Large aggregator for local roles.
+- [EthicalJobs](https://www.ethicaljobs.com.au/) — Good for IT roles in Australian non-profits and government-adjacent sectors.
+- [Whirlpool IT Forums](https://forums.whirlpool.net.au/forum/133) — The primary Australian IT forum; the IT jobs sub-forum is excellent for finding local/remote Perth work.
 - [Seek](https://www.seek.com.au) — Australia-focused general board with many IT and support roles.
 - [Adzuna Australia](https://www.adzuna.com.au) — Australia board and aggregator; filter carefully by role and location.
 - [CareerOne Job View](http://jobview.careerone.com.au) — Australia job board with IT listings.
@@ -50,63 +53,71 @@ English-only curated job boards and company career pages for an IT worker based 
 
 ## 2. Remote Jobs Open to Australia / APAC / Worldwide
 
+- [Otta](https://uk.welcometothejungle.com/) — Highly curated tech jobs with great location filtering for remote international workers.
+- [Himalayas](https://himalayas.app/) — Fast-growing remote job board with excellent timezone overlap filters.
 - [Remote Job Worldwide](https://github.com/remoteintech/remote-jobs) — Curated remote-company list with many global options.
 - [Remote.co](http://remote.co) — Remote job board and resource hub.
-- [Remote OK](http://www.remoteok.io) — Remote-first board with global filters.
-- [Remotive](http://remotive.io) — Remote job board focused on distributed roles.
-- [We Work Remotely](http://www.weworkremotely.com) — Large remote-first board.
-- [Working Nomads](http://www.workingnomads.co/jobs) — Remote board with broad global coverage.
+- [Remote OK](https://remoteok.com/) — Remote-first board with global filters.
+- [Remotive](https://remotive.com/) — Remote job board focused on distributed roles.
+- [We Work Remotely](https://weworkremotely.com/) — Large remote-first board.
+- [Working Nomads](https://www.workingnomads.com/jobs) — Remote board with broad global coverage.
 - [Just Remote](https://justremote.co) — Remote-first board with location filters.
-- [Wellfound](http://wellfound.com) — Startup board; use remote and location filters carefully.
+- [Wellfound](https://wellfound.com/) — Startup board; use remote and location filters carefully.
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/) — Use remote and location filters; verify work authorization on each posting.
 - [Indeed Worldwide](https://www.indeed.com/worldwide) — Worldwide aggregator; confirm remote eligibility per posting.
 
 ## 3. U.S. Citizen-Friendly Remote / Contractor Boards
 
+- [Dice](https://www.dice.com/) — Heavy focus on U.S. tech contracting; filter for "Remote".
+- [Gun.io](https://gun.io/) — Vetted freelance network matching senior engineers and DevOps to U.S. clients.
+- [ClearanceJobs](https://www.clearancejobs.com/) — Niche board: If the user holds or has held a U.S. security clearance, this is the premier board for cleared IT/contractor work, including OCONUS (Outside Continental US).
 - [Upwork](https://www.upwork.com) — Freelance marketplace for contract work.
-- [Toptal](http://www.toptal.com) — Contract talent network with higher-signal client work.
-- [Freelancer](http://www.freelancer.com) — Global freelance marketplace.
-- [PeoplePerHour](http://www.peopleperhour.com/freelance-jobs) — Freelance marketplace with contract work.
+- [Toptal](https://www.toptal.com/) — Contract talent network with higher-signal client work.
+- [Freelancer](https://www.freelancer.com/) — Global freelance marketplace.
+- [PeoplePerHour](https://www.peopleperhour.com/freelance-jobs) — Freelance marketplace with contract work.
 - [FlexJobs](http://www.flexjobs.com) — Paid remote-job board; verify current listings and geography.
-- [Authentic Jobs](http://authenticjobs.com) — Remote-friendly tech jobs and contract roles.
+- [Authentic Jobs](https://authenticjobs.com/) — Remote-friendly tech jobs and contract roles.
 
 ## 4. Cloud, DevOps, Linux, Security, and Infrastructure Roles
 
 Company career pages and role hubs worth watching for infrastructure, platform, and security-adjacent work:
 
-- [1Password](https://www.1password.com) — Security-adjacent company with many remote-friendly roles.
-- [Ad Hoc](https://www.adhocteam.us) — Public-sector and infrastructure-focused engineering roles.
+- [DevOpsJobs.io](https://devopsjobs.io/) — Niche board strictly for DevOps, SRE, and Cloud Infrastructure.
+- [1Password](https://1password.com/) — Security-adjacent company with many remote-friendly roles.
+- [Ad Hoc](https://adhoc.team/index.html) — Public-sector and infrastructure-focused engineering roles.
 - [Airbyte](https://airbyte.com) — Data infrastructure company.
-- [Amazon Jobs Virtual Locations](https://www.amazon.jobs/en/locations/virtual-locations) — Needs verification for Australia-based applicants and specific role eligibility.
-- [Canonical](https://www.canonical.com) — Linux and open-source infrastructure roles.
-- [Cloudflare](https://www.cloudflare.com/careers) — Network, security, and edge infrastructure roles.
+- [Amazon Jobs Virtual Locations](https://www.amazon.jobs/content/en/locations) — Needs verification for Australia-based applicants and specific role eligibility.
+- [Canonical](https://canonical.com/) — Linux and open-source infrastructure roles.
+- [Cloudflare](https://www.cloudflare.com/careers/) — Network, security, and edge infrastructure roles.
 - [Datadog](https://www.datadoghq.com) — Observability and infrastructure platform roles.
 - [Elastic](https://www.elastic.co) — Search, observability, and security roles.
 - [GitLab](https://about.gitlab.com) — Distributed engineering and DevOps culture.
 - [HashiCorp](https://www.hashicorp.com) — Infrastructure automation and cloud tooling.
-- [Red Hat](https://www.redhat.com) — Linux, open source, and enterprise infrastructure roles.
-- [Sentry](https://sentry.io/careers) — Developer tooling and monitoring roles.
+- [Red Hat](https://www.redhat.com/en) — Linux, open source, and enterprise infrastructure roles.
+- [Sentry](https://sentry.io/careers/) — Developer tooling and monitoring roles.
 - [SUSE](https://www.suse.com) — Linux and enterprise infrastructure roles.
-- [Sysdig](https://www.sysdig.org) — Cloud security and observability roles.
+- [Sysdig](https://www.sysdig.com/) — Cloud security and observability roles.
 - [Tenable](https://www.tenable.com) — Security and vulnerability-management roles.
-- [Twilio](https://www.twilio.com) — Cloud communications and platform roles.
+- [Twilio](https://www.twilio.com/en-us) — Cloud communications and platform roles.
 
 ## 5. Companies Worth Tracking
 
 - [Automattic](https://automattic.com) — Distributed company with strong remote culture.
 - [Basecamp](https://basecamp.com) — Remote-friendly software company.
 - [Balsamiq](https://balsamiq.com) — Small distributed company.
-- [Bitovi](https://bitovi.com) — Consulting and software engineering roles.
-- [Andela](https://andela.com) — Distributed talent network.
+- [Bitovi](https://www.bitovi.com/) — Consulting and software engineering roles.
+- [Andela](https://www.andela.com/) — Distributed talent network.
 - [Shopify](https://www.shopify.com) — Large distributed company; verify region and role.
-- [Stripe](https://stripe.com) — Cloud payments company with global roles.
+- [Stripe](https://stripe.com/au) — Cloud payments company with global roles.
 - [X-Team](https://x-team.com) — Remote engineering network.
 - [PreviousNext](https://www.previousnext.com.au) — Australia-based digital consultancy.
-- [The Iconic](http://www.theiconic.com.au/opportunities) — Australia-based e-commerce employer.
+- [The Iconic](https://www.theiconic.com.au/playbook/careers) — Australia-based e-commerce employer.
 
 ## 6. Freelance and Contract Platforms
 
 For contract, part-time, and freelance work, start with the platforms in section 3.
+
+- [Hacker News Jobs](https://news.ycombinator.com/jobs) — Monthly "Who is hiring" thread. Excellent for infrastructure and startup remote contractor roles.
 
 ## 7. Excluded Categories
 
@@ -124,7 +135,7 @@ For contract, part-time, and freelance work, start with the platforms in section
 
 ## Link counts
 
-- Links kept: 46
+- Links kept: 56
 - Links removed or excluded: 1039
 
 ## Credits

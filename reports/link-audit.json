@@ -1,10 +1,4 @@
 {
-  "http://authenticjobs.com": {
-    "status": "upgraded_to_https",
-    "final_url": "https://authenticjobs.com/",
-    "code": 200,
-    "reason": "Success via HTTPS"
-  },
   "http://jobview.careerone.com.au": {
     "status": "dns_error",
     "final_url": "https://jobview.careerone.com.au",
@@ -16,18 +10,6 @@
     "final_url": "https://remote.co",
     "code": null,
     "reason": "Connection/DNS Error"
-  },
-  "http://remotive.io": {
-    "status": "upgraded_to_https",
-    "final_url": "https://remotive.com/",
-    "code": 200,
-    "reason": "Success via HTTPS"
-  },
-  "http://wellfound.com": {
-    "status": "upgraded_to_https",
-    "final_url": "https://wellfound.com/",
-    "code": 200,
-    "reason": "Success via HTTPS"
   },
   "http://www.applynow.com.au": {
     "status": "blocked",
@@ -41,51 +23,21 @@
     "code": null,
     "reason": "Connection/DNS Error"
   },
-  "http://www.freelancer.com": {
-    "status": "upgraded_to_https",
-    "final_url": "https://www.freelancer.com/",
+  "https://1password.com/": {
+    "status": "working",
+    "final_url": "https://1password.com/",
     "code": 200,
-    "reason": "Success via HTTPS"
-  },
-  "http://www.peopleperhour.com/freelance-jobs": {
-    "status": "upgraded_to_https",
-    "final_url": "https://www.peopleperhour.com/freelance-jobs",
-    "code": 200,
-    "reason": "Success via HTTPS"
-  },
-  "http://www.remoteok.io": {
-    "status": "upgraded_to_https",
-    "final_url": "https://remoteok.com/",
-    "code": 200,
-    "reason": "Success via HTTPS"
-  },
-  "http://www.theiconic.com.au/opportunities": {
-    "status": "upgraded_to_https",
-    "final_url": "https://www.theiconic.com.au/playbook/careers",
-    "code": 200,
-    "reason": "Success via HTTPS"
-  },
-  "http://www.toptal.com": {
-    "status": "upgraded_to_https",
-    "final_url": "https://www.toptal.com/",
-    "code": 200,
-    "reason": "Success via HTTPS"
-  },
-  "http://www.weworkremotely.com": {
-    "status": "upgraded_to_https",
-    "final_url": "https://weworkremotely.com/",
-    "code": 200,
-    "reason": "Success via HTTPS"
-  },
-  "http://www.workingnomads.co/jobs": {
-    "status": "upgraded_to_https",
-    "final_url": "https://www.workingnomads.com/jobs",
-    "code": 200,
-    "reason": "Success via HTTPS"
+    "reason": "OK"
   },
   "https://about.gitlab.com": {
     "status": "working",
     "final_url": "https://about.gitlab.com/",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://adhoc.team/index.html": {
+    "status": "working",
+    "final_url": "https://adhoc.team/index.html",
     "code": 200,
     "reason": "OK"
   },
@@ -95,11 +47,17 @@
     "code": 200,
     "reason": "OK"
   },
-  "https://andela.com": {
-    "status": "redirected",
-    "final_url": "https://www.andela.com/",
+  "https://au.jora.com/": {
+    "status": "blocked",
+    "final_url": "https://au.jora.com/",
+    "code": 403,
+    "reason": "HTTP 403"
+  },
+  "https://authenticjobs.com/": {
+    "status": "working",
+    "final_url": "https://authenticjobs.com/",
     "code": 200,
-    "reason": "Redirected to https://www.andela.com/"
+    "reason": "OK"
   },
   "https://automattic.com": {
     "status": "working",
@@ -119,11 +77,23 @@
     "code": 200,
     "reason": "OK"
   },
-  "https://bitovi.com": {
-    "status": "redirected",
-    "final_url": "https://www.bitovi.com/",
+  "https://canonical.com/": {
+    "status": "working",
+    "final_url": "https://canonical.com/",
     "code": 200,
-    "reason": "Redirected to https://www.bitovi.com/"
+    "reason": "OK"
+  },
+  "https://devopsjobs.io/": {
+    "status": "working",
+    "final_url": "https://devopsjobs.io/",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://forums.whirlpool.net.au/forum/133": {
+    "status": "working",
+    "final_url": "https://forums.whirlpool.net.au/forum/133",
+    "code": 200,
+    "reason": "OK"
   },
   "https://github.com/atmmoreira/usefully.searching.jobs": {
     "status": "working",
@@ -137,35 +107,65 @@
     "code": 200,
     "reason": "OK"
   },
+  "https://himalayas.app/": {
+    "status": "working",
+    "final_url": "https://himalayas.app/",
+    "code": 200,
+    "reason": "OK"
+  },
   "https://justremote.co": {
     "status": "working",
     "final_url": "https://justremote.co/",
     "code": 200,
     "reason": "OK"
   },
-  "https://sentry.io/careers": {
+  "https://news.ycombinator.com/jobs": {
+    "status": "working",
+    "final_url": "https://news.ycombinator.com/jobs",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://otta.com/": {
     "status": "redirected",
+    "final_url": "https://uk.welcometothejungle.com/",
+    "code": 200,
+    "reason": "Redirected to https://uk.welcometothejungle.com/"
+  },
+  "https://remoteok.com/": {
+    "status": "working",
+    "final_url": "https://remoteok.com/",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://remotive.com/": {
+    "status": "working",
+    "final_url": "https://remotive.com/",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://sentry.io/careers/": {
+    "status": "working",
     "final_url": "https://sentry.io/careers/",
     "code": 200,
-    "reason": "Redirected to https://sentry.io/careers/"
+    "reason": "OK"
   },
-  "https://stripe.com": {
-    "status": "redirected",
+  "https://stripe.com/au": {
+    "status": "working",
     "final_url": "https://stripe.com/au",
     "code": 200,
-    "reason": "Redirected to https://stripe.com/au"
+    "reason": "OK"
   },
-  "https://www.1password.com": {
-    "status": "redirected",
-    "final_url": "https://1password.com/",
+  "https://wellfound.com/": {
+    "status": "working",
+    "final_url": "https://wellfound.com/",
     "code": 200,
-    "reason": "Redirected to https://1password.com/"
+    "reason": "OK"
   },
-  "https://www.adhocteam.us": {
-    "status": "redirected",
-    "final_url": "https://adhoc.team/index.html",
+  "https://weworkremotely.com/": {
+    "status": "working",
+    "final_url": "https://weworkremotely.com/",
     "code": 200,
-    "reason": "Redirected to https://adhoc.team/index.html"
+    "reason": "OK"
   },
   "https://www.adzuna.com.au": {
     "status": "dns_error",
@@ -173,27 +173,45 @@
     "code": null,
     "reason": "Connection/DNS Error"
   },
-  "https://www.amazon.jobs/en/locations/virtual-locations": {
-    "status": "redirected",
+  "https://www.amazon.jobs/content/en/locations": {
+    "status": "working",
     "final_url": "https://www.amazon.jobs/content/en/locations",
     "code": 200,
-    "reason": "Redirected to https://www.amazon.jobs/content/en/locations"
+    "reason": "OK"
   },
-  "https://www.canonical.com": {
-    "status": "redirected",
-    "final_url": "https://canonical.com/",
+  "https://www.andela.com/": {
+    "status": "working",
+    "final_url": "https://www.andela.com/",
     "code": 200,
-    "reason": "Redirected to https://canonical.com/"
+    "reason": "OK"
   },
-  "https://www.cloudflare.com/careers": {
-    "status": "redirected",
+  "https://www.bitovi.com/": {
+    "status": "working",
+    "final_url": "https://www.bitovi.com/",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://www.clearancejobs.com/": {
+    "status": "working",
+    "final_url": "https://www.clearancejobs.com/",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://www.cloudflare.com/careers/": {
+    "status": "working",
     "final_url": "https://www.cloudflare.com/careers/",
     "code": 200,
-    "reason": "Redirected to https://www.cloudflare.com/careers/"
+    "reason": "OK"
   },
   "https://www.datadoghq.com": {
     "status": "working",
     "final_url": "https://www.datadoghq.com/",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://www.dice.com/": {
+    "status": "working",
+    "final_url": "https://www.dice.com/",
     "code": 200,
     "reason": "OK"
   },
@@ -202,6 +220,24 @@
     "final_url": "https://www.elastic.co/",
     "code": 200,
     "reason": "OK"
+  },
+  "https://www.ethicaljobs.com.au/": {
+    "status": "working",
+    "final_url": "https://www.ethicaljobs.com.au/",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://www.freelancer.com/": {
+    "status": "working",
+    "final_url": "https://www.freelancer.com/",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://www.gun.io/": {
+    "status": "redirected",
+    "final_url": "https://gun.io/",
+    "code": 200,
+    "reason": "Redirected to https://gun.io/"
   },
   "https://www.hashicorp.com": {
     "status": "blocked",
@@ -221,17 +257,23 @@
     "code": 200,
     "reason": "OK"
   },
+  "https://www.peopleperhour.com/freelance-jobs": {
+    "status": "working",
+    "final_url": "https://www.peopleperhour.com/freelance-jobs",
+    "code": 200,
+    "reason": "OK"
+  },
   "https://www.previousnext.com.au": {
     "status": "working",
     "final_url": "https://www.previousnext.com.au/",
     "code": 200,
     "reason": "OK"
   },
-  "https://www.redhat.com": {
-    "status": "redirected",
+  "https://www.redhat.com/en": {
+    "status": "working",
     "final_url": "https://www.redhat.com/en",
     "code": 200,
-    "reason": "Redirected to https://www.redhat.com/en"
+    "reason": "OK"
   },
   "https://www.seek.com.au": {
     "status": "blocked",
@@ -251,11 +293,11 @@
     "code": 200,
     "reason": "OK"
   },
-  "https://www.sysdig.org": {
-    "status": "redirected",
+  "https://www.sysdig.com/": {
+    "status": "working",
     "final_url": "https://www.sysdig.com/",
     "code": 200,
-    "reason": "Redirected to https://www.sysdig.com/"
+    "reason": "OK"
   },
   "https://www.tenable.com": {
     "status": "working",
@@ -263,17 +305,35 @@
     "code": 200,
     "reason": "OK"
   },
-  "https://www.twilio.com": {
-    "status": "redirected",
+  "https://www.theiconic.com.au/playbook/careers": {
+    "status": "working",
+    "final_url": "https://www.theiconic.com.au/playbook/careers",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://www.toptal.com/": {
+    "status": "working",
+    "final_url": "https://www.toptal.com/",
+    "code": 200,
+    "reason": "OK"
+  },
+  "https://www.twilio.com/en-us": {
+    "status": "working",
     "final_url": "https://www.twilio.com/en-us",
     "code": 200,
-    "reason": "Redirected to https://www.twilio.com/en-us"
+    "reason": "OK"
   },
   "https://www.upwork.com": {
     "status": "blocked",
     "final_url": "https://www.upwork.com/",
     "code": 403,
     "reason": "HTTP 403"
+  },
+  "https://www.workingnomads.com/jobs": {
+    "status": "working",
+    "final_url": "https://www.workingnomads.com/jobs",
+    "code": 200,
+    "reason": "OK"
   },
   "https://x-team.com": {
     "status": "working",

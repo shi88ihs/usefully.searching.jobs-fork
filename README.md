@@ -143,6 +143,14 @@ For contract, part-time, and freelance work, start with the platforms in section
 - Original upstream repository: [atmmoreira/usefully.searching.jobs](https://github.com/atmmoreira/usefully.searching.jobs)
 - This fork is an English-only, Australia-focused curation of that original list.
 
+## Changelog
+
+### [v1.0.0] - Initial Curation Release
+- Completely curated for Australia-based IT workers.
+- Added automated link auditing and HTTPS normalization.
+- Added high-value remote and contractor job boards.
+- See [RELEASE_NOTES.md](RELEASE_NOTES.md) for full details.
+
 ## Link Audit
 
 This repository includes a script to automatically verify and clean up links.

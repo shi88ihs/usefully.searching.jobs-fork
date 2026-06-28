@@ -1,5 +1,5 @@
 # Sites com possibilidade de contratação para trabalho remoto e/ou Freelancer.
-Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira.rj@gmail.com) » [WhatsApp](https://api.whatsapp.com/send?phone=5521992890362) » [Telegram](https://telegram.me/atmmoreira)
+
 
 <br />
 

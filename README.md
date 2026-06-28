@@ -131,3 +131,24 @@ For contract, part-time, and freelance work, start with the platforms in section
 
 - Original upstream repository: [atmmoreira/usefully.searching.jobs](https://github.com/atmmoreira/usefully.searching.jobs)
 - This fork is an English-only, Australia-focused curation of that original list.
+
+## Link Audit
+
+This repository includes a script to automatically verify and clean up links.
+
+### Requirements
+- Python 3
+- `requests` (`pip install -r requirements.txt`)
+
+### Running the Audit
+Run the script in audit-only mode to generate reports in `reports/`:
+```bash
+python3 scripts/audit_links.py --input README.md
+```
+
+### Applying Fixes
+To automatically upgrade HTTP to HTTPS and remove dead links:
+```bash
+python3 scripts/audit_links.py --input README.md --apply --remove dead,timeout,dns_error,ssl_error
+```
+This creates a backup at `README.before-link-audit.md` before making any modifications.

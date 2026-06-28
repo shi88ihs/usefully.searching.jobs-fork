@@ -1,6 +1,21 @@
 # Useful Job Search Resources for Australia-Based IT Workers
 
-English-only curated job boards and company career pages for an IT worker based in Australia, with a preference for Perth-friendly, remote-friendly, and contract-friendly roles.
+This repository is an actively maintained, opinionated fork of a broad, multilingual job-board list. It has been completely rebuilt and modernized into a highly focused resource for **English-speaking IT workers based in Australia**—especially those seeking remote APAC roles, worldwide remote eligibility, Perth-friendly roles, or U.S. citizen-friendly contractor positions.
+
+**Target Niche:** IT Support, Linux SysAdmin, Cloud, AWS, DevOps, MSP, Field Technician, Infrastructure, and Security-adjacent IT.
+
+## Why this fork exists
+
+While many forks of the original repository remain unchanged, this version was intentionally rebuilt to be a practical, highly actionable job-search tool rather than a static, bloated bookmark list. The original list was broad and global; this fork has been rigorously pruned, translated, verified, and tailored to fit a specific technical worker profile. The guiding philosophy here is **quality over quantity**.
+
+## What changed from upstream
+
+- **Language & Scope:** Removed non-English content and unrelated personal/admin contact details.
+- **Curation:** Removed region-locked or low-relevance boards outside the target profile.
+- **Additions:** Added high-value Australia, APAC, worldwide remote, and U.S. contractor-friendly boards.
+- **Categorization:** Introduced IT, cloud, DevOps, and sysadmin-focused categories.
+- **Automation:** Implemented an automated link auditing workflow that generates reports in Markdown, JSON, and CSV.
+- **Modernization:** Normalized functional links to HTTPS, resolved redirects to their final destinations, and added maintenance notes.
 
 ## Who this list is for
 
